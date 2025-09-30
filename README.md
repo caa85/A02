@@ -20,23 +20,25 @@ Tutorial:
 
 11) Choose Github page location
 
-
+<br>
 
 Glossary:
-- Branch: Seperate lines of development
-- Clone: Copy of repository
-- Commit: Save changes
-- Fetch: Download updates
-- GIT: Version control system
-- Github: Platform to post codes on the cloud
-- Merge: Combine branches together
-- Merge Conflict: Overlapping changes problem
-- Push: Upload commits to remote
-- Pull: Fetch and merge from remote
-- Remote: Link to online repository
-- Repository: Project folder with code
+- **Branch:** Separate lines of development
+- **Clone:** Copy of repository
+- **Commit:** Save changes
+- **Fetch:** Download updates
+- **GIT:** Version control system
+- **Github:** Platform to post codes on the cloud
+- **Merge:** Combine branches together
+- **Merge Conflict:** Overlapping changes problem
+- **Push:** Upload commits to remote
+- **Pull:** Fetch and merge from remote
+- **Remote:** Link to online repository
+- **Repository:** Project folder with code
 
+<br>
 
-References: 
-Arthur Hendela (2019). IntroToGitHub-20190318.pptx. https://njit.instructure.com/courses/58103/files/8421330/download?download_frd=1
+References: <br>
+
+Arthur Hendela (2019). IntroToGitHub-20190318.pptx. https://njit.instructure.com/courses/58103/files/8421330/download?download_frd=1 <br>
 Corbin Brown. (2024, March 15). How to use Git and GitHub [Video]. YouTube. https://www.youtube.com/watch?v=a9u2yZvsqHA 
